@@ -20,7 +20,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@sindresorhus/slugify": "^1.1.0",
+    "@sindresorhus/slugify": "^2.0.0",
     "debounce": "^1.2.1",
     "dotenv": "^10.0.0",
     "gatsby": "^4.0.2",
